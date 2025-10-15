@@ -28,13 +28,13 @@ O objetivo foi testar o poder das IAs em criar personagens tão realistas que no
 ## 🤖 Tecnologias Utilizadas
 - **ChatGPT (GPT-5)** → Criação da biografia e roteiros de postagens da Luna  
 - **DALL·E 3** → Geração das imagens realistas da personagem  
-- **Canva** → Montagem das postagens e feed    
+- **Gemini** → Montagem das postagens de feed    
 
 ---
 
 ## 🧐 Processo de Criação
 1. **Conceito:** Criei a ideia de “Luna Vibes” — uma influenciadora focada em minimalismo, natureza e vida saudável.  
-2. **Texto e Personalidade:** Usei ChatGPT para definir seu estilo, tom de voz e criar legendas autênticas.  
+2. **Texto e Personalidade:** Usei ChatGPT para definir seu estilo e criar legendas autênticas.  
 3. **Imagens Realistas:** As fotos foram geradas com DALL·E 3, em estilos diferentes (urbano, café, viagem e academia).  
 4. **Montagem Final:** As imagens foram organizadas como se fossem um feed de influenciadora real no Gemini.  
 
